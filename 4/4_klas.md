@@ -45,7 +45,6 @@ Im Winter feiern wir … .<br>
     <td width="10%" style="vertical-align:top !important;">
 <b>Публічна</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Природа і навколишнє середовище. <br>
 Подорож.<br>
 Свята і традиції.<br></td>
 </tr>
